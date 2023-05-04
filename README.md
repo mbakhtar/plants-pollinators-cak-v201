@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Plants and Pollinators Tutorial CAK V2.01](https://makecode.microbit.org/#tutorial:github:mbakhtar/plants-pollinators-cak-v201/plantspoll-cak-v2)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/plants-pollinators-cak-v201** and import
